@@ -34,6 +34,7 @@ Check out the live demo of Sketch Pad here:
 ## 📸 Screenshots And Videos:
 
 ![Sketch Pad Screenshot](icons/screenshot01.png)
+### Click on the picture below to view the video
 [![Sketch Pad Video](icons/screenshot01.png)](https://drive.google.com/file/d/1NO9KuaaMzBMbu5ToE0Ga8mb4n_eynHI1/view?usp=sharing)
 
 ## 🤝 Contributing:
