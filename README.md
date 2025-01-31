@@ -55,6 +55,13 @@ We would love to hear from you! Please provide any feedback or suggestions in th
 
 This project is licensed under the **MIT License** - see the [LICENSE.md](LICENSE.md) file for details.
 
+## 🙌 Credits:
+
+- **Icon assets**: [Flaticon](https://www.flaticon.com) for providing free icons used in the website 🖼️✨
+- **Fonts**: [Google Fonts](https://fonts.google.com) for beautiful, free fonts that enhance the design 🌟
+- **Color Palette**: [Coolors](https://coolors.co) for the amazing color palette used to bring creativity to life 🎨
+- **CodingNepal**: [Youtuber](https://www.youtube.com/@CodingNepal) for the amazing idea ✨
+
 ## 📲 **Follow Me on Instagram**  
 
 Stay connected for more updates, behind-the-scenes sneak peeks, and gaming fun! Follow me on Instagram:   
